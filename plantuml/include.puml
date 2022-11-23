@@ -1,0 +1,15 @@
+@startuml
+!theme plain
+skinparam ClassAttributeIconSize 0
+hide circle
+class Boklån {
+    + bok : string
+    + låntagare : string
+    + datum : DateTime
+    + Boklån(bokIn:string, låntagareIn:string)
+    + LämnasTillbaka() : DateTime
+    + DagarKvar() : int
+    + SkrivUt() : void
+    + FörlängLån() : void
+}
+@enduml
