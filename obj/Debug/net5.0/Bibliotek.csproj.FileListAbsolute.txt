@@ -1,0 +1,16 @@
+C:\Users\herreraalgotsson.ad\github-classroom\TE20C-spel-prog-2\OOP\Bibliotek\bin\Debug\net5.0\Bibliotek.exe
+C:\Users\herreraalgotsson.ad\github-classroom\TE20C-spel-prog-2\OOP\Bibliotek\bin\Debug\net5.0\Bibliotek.deps.json
+C:\Users\herreraalgotsson.ad\github-classroom\TE20C-spel-prog-2\OOP\Bibliotek\bin\Debug\net5.0\Bibliotek.runtimeconfig.json
+C:\Users\herreraalgotsson.ad\github-classroom\TE20C-spel-prog-2\OOP\Bibliotek\bin\Debug\net5.0\Bibliotek.runtimeconfig.dev.json
+C:\Users\herreraalgotsson.ad\github-classroom\TE20C-spel-prog-2\OOP\Bibliotek\bin\Debug\net5.0\Bibliotek.dll
+C:\Users\herreraalgotsson.ad\github-classroom\TE20C-spel-prog-2\OOP\Bibliotek\bin\Debug\net5.0\ref\Bibliotek.dll
+C:\Users\herreraalgotsson.ad\github-classroom\TE20C-spel-prog-2\OOP\Bibliotek\bin\Debug\net5.0\Bibliotek.pdb
+C:\Users\herreraalgotsson.ad\github-classroom\TE20C-spel-prog-2\OOP\Bibliotek\obj\Debug\net5.0\Bibliotek.csproj.AssemblyReference.cache
+C:\Users\herreraalgotsson.ad\github-classroom\TE20C-spel-prog-2\OOP\Bibliotek\obj\Debug\net5.0\Bibliotek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\herreraalgotsson.ad\github-classroom\TE20C-spel-prog-2\OOP\Bibliotek\obj\Debug\net5.0\Bibliotek.AssemblyInfoInputs.cache
+C:\Users\herreraalgotsson.ad\github-classroom\TE20C-spel-prog-2\OOP\Bibliotek\obj\Debug\net5.0\Bibliotek.AssemblyInfo.cs
+C:\Users\herreraalgotsson.ad\github-classroom\TE20C-spel-prog-2\OOP\Bibliotek\obj\Debug\net5.0\Bibliotek.csproj.CoreCompileInputs.cache
+C:\Users\herreraalgotsson.ad\github-classroom\TE20C-spel-prog-2\OOP\Bibliotek\obj\Debug\net5.0\Bibliotek.dll
+C:\Users\herreraalgotsson.ad\github-classroom\TE20C-spel-prog-2\OOP\Bibliotek\obj\Debug\net5.0\ref\Bibliotek.dll
+C:\Users\herreraalgotsson.ad\github-classroom\TE20C-spel-prog-2\OOP\Bibliotek\obj\Debug\net5.0\Bibliotek.pdb
+C:\Users\herreraalgotsson.ad\github-classroom\TE20C-spel-prog-2\OOP\Bibliotek\obj\Debug\net5.0\Bibliotek.genruntimeconfig.cache
